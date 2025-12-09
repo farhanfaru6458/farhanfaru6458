@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Farhan Faru  
+## 👋 Hi, I'm Muhammed Farhan Ap  
 ### MERN Stack Developer | React | Next.js | TypeScript
 
 I’m a passionate MERN-Stack Developer focused on building clean, modern, and scalable web applications.  
