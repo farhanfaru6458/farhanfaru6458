@@ -22,7 +22,7 @@ Driven by continuous learning, I enjoy turning ideas into fully functional produ
   <a href="https://github.com/YOUR_GITHUB" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="[https://instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/faraaan_n/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
